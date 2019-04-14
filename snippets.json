@@ -1,0 +1,424 @@
+[
+    {
+        "id": "5",
+        "title": "effect of DDA on control and immersion",
+        "tags": [
+            "DDA",
+            "immersion",
+            "perception of control",
+            "player experience"
+        ],
+        "content": "\nDDA effects via timer manipulation\nmore appropriate skill match -> more perception of control, greater immersion\n\n\nfragment:6:embed \n"
+    },
+    {
+        "id": "48",
+        "title": "diversity of players",
+        "tags": [
+            "motivation",
+            "player modeling",
+            "player preferences"
+        ],
+        "content": "players have diverse motivations, preference, and needs\n\nfragment:47:embed "
+    },
+    {
+        "id": "149",
+        "title": "game interactivity facilitates identification (with player character)",
+        "tags": [
+            "avatar",
+            "identification",
+            "interactivity",
+            "player character"
+        ],
+        "content": "study with gameplay vs. observation of recorded gameplay -> higher identification for interactive condition (FPS Battlefield 2)\n\nidentification measured on 8 item 5-point Likert scale  (scale reliability Cronbach's alpha .84)"
+    },
+    {
+        "id": "150",
+        "title": "identification contributes to game enjoyment",
+        "tags": [
+            "avatar",
+            "enjoyment",
+            "fun",
+            "identification",
+            "player character"
+        ],
+        "content": "strong correlation b/w identification scores and game enjoyment\n \nidentification measured on 8 item 5-point Likert scale (scale reliability Cronbach's alpha .84) "
+    },
+    {
+        "id": "151",
+        "title": "players' perceived confidence facilitates identification",
+        "tags": [
+            "challenge",
+            "competence",
+            "identification"
+        ],
+        "content": "strong correlation of player's perceived competence and identification scores\n\nidentification measured on 8 item 5-point Likert scale (scale reliability Cronbach's alpha .84) "
+    },
+    {
+        "id": "152",
+        "title": "identification with narrative roles important for game enjoyment",
+        "tags": [
+            "enjoyment",
+            "fun",
+            "identification",
+            "narrative"
+        ],
+        "content": "''the findings support the importance of narrative elements for successful computer games. A major part of the fun of playing comes out of identification processes that root back in the narrative framework of the game. If only a rudimentary background plot is available, the character or role that players could identify with may remain underdeveloped, which would result in lowered game enjoyment. Thus, the inclusion of rich narrative content is both a challenge for game development, but also an important advantage for the entertainment experience''"
+    },
+    {
+        "id": "286",
+        "title": "Immersive Experience Questionnaire (IEQ)",
+        "tags": [
+            "questionnaire"
+        ],
+        "content": "31 items (partially reverse scored) on 7-point scale (1=not at all / very little, 7=a lot / very much so)\n\nsingle question measure of immersion\n\n5 immersion factors: \n- challenge\n- control\n- real world dissociation\n- emotional involvement\n- cognitive involvement\n"
+    },
+    {
+        "id": "289",
+        "title": "Intrinsic Motivation Inventory (IMI)",
+        "tags": [
+            "questionnaire"
+        ],
+        "content": "post-experimental measurement of intrinsic motivation\n\n45 items total, 7-point Likert scale (1=not at all true, 4=somewhat true, 7=very true)\n\nsubscales: \n- interest/enjoyment\n- perceived competence\n- effort/importance\n- pressure/tension\n- perceived choice\n- value/usefulness\n- relatedness\n\n"
+    },
+    {
+        "id": "295",
+        "title": "self-assessment manikin (SAM)",
+        "tags": [
+            "questionnaire"
+        ],
+        "content": "manikin image: pleasure, arousal, dominance\n9-point scales from happy/unhappy, calm/excited, controlled/dominant (5 figures and in between)\n\njoy, anger, frustration, boredom on 7-point scale (1=sehr gering, 7=sehr stark)\n"
+    },
+    {
+        "id": "499",
+        "title": "technological immersion has medium-sized effect on presence",
+        "tags": [
+            "immersion",
+            "presence"
+        ],
+        "content": "meta analysis of 83 studies, 115 effect sizes\n\nfollowing definitions of immersion as technological, and presence as psychological\n"
+    },
+    {
+        "id": "500",
+        "title": "immersion and presence are often conflated",
+        "tags": [
+            "immersion",
+            "presence"
+        ],
+        "content": "- synonymous \n- immersion as subcomponent of presence \n- technological vs. psychological (which they use)\n"
+    },
+    {
+        "id": "501",
+        "title": "presence through self-location & construction of mediated space",
+        "tags": [
+            "presence",
+            "immersion",
+            "spatial",
+            "interaction",
+            "consistency",
+            "mediation"
+        ],
+        "content": "the latter through spatial (mostly visual) cues, rich in quality, and with logical consistency, with interaction affordances\n"
+    },
+    {
+        "id": "502",
+        "title": "link of sound and presence has been investigated",
+        "tags": [
+            "sound",
+            "audio",
+            "presence",
+            "immersion",
+            "ambient sound",
+            "ambient noises",
+            "diegetic",
+            "spatial",
+            "spatialized sounds",
+            "sound channels"
+        ],
+        "content": "> \"A number of studies have investigated how the relative presence of sound may influence user ratings of presence. Manipulations of this feature include the presence or absence of all sound, ambient sound, diegetic sound, or spatialized sound, as well as the number of sound channels used.\" \n"
+    },
+    {
+        "id": "503",
+        "title": "sound quality has small to medium sized effect on presence",
+        "tags": [
+            "sound",
+            "audio",
+            "presence",
+            "immersion"
+        ],
+        "content": "r=.260\n"
+    },
+    {
+        "id": "504",
+        "title": "image quality has small effect on presence",
+        "tags": [
+            "image quality",
+            "presence",
+            "immersion"
+        ],
+        "content": "r=.150\n"
+    },
+    {
+        "id": "505",
+        "title": "high vs. low technological immersion has medium sized effect on presence",
+        "tags": [
+            "technological immersion",
+            "technology",
+            "presence",
+            "immersion"
+        ],
+        "content": "r=.339\n"
+    },
+    {
+        "id": "506",
+        "title": "importance for presence: technological immersion > sound quality > image quality",
+        "tags": [
+            "presence",
+            "immersion",
+            "technological immersion",
+            "technology",
+            "sound",
+            "audio",
+            "sound quality",
+            "image quality",
+            "field of view",
+            "tracking"
+        ],
+        "content": "high vs. low technological immersion most important for presence (also update rate, tracking level, field of view)\n\nmore important than sound quality\n\nsound quality still more important than image quality\n"
+    },
+	{
+		"id": "507",
+		"title": "spatial presence through affordances of self-location & spatial model",
+		"tags": [
+			"presence",
+			"spatial",
+			"self-location",
+			"immersion"
+		],
+		"content": "affordances of a system for self-location and construction of a spatial model suggested to be most important for spatial presence\n\n(may not be generalizable to self-presence (?) or social presence)\n"
+	},
+    {
+        "id": "574",
+        "title": "games have internal economies",
+        "tags": [
+            "economy",
+            "virtual economy",
+            "virtual items",
+            "games",
+            "tangible",
+            "game resources"
+        ],
+        "content": "\"a system in which resources -- of any kind -- can be produced, exchanged, and consumed\"\n\nin games this includes non-tangible items too (health, experience, skill points, health points)\n"
+    },
+    {
+        "id": "575",
+        "title": "mechanics in virtual economies",
+        "tags": [
+            "virtual economy",
+            "virtual items",
+            "game mechanics",
+            "game resources",
+            "economy"
+        ],
+        "content": "- sources\n- drains\n- converters\n- traders\n"
+    },
+    {
+        "id": "576",
+        "title": "breadcumbing mechanic",
+        "tags": [
+            "breadcumbing",
+            "collectible",
+            "game resources",
+            "level design",
+            "game design",
+            "game mechanics"
+        ],
+        "content": "collectible items used to guide players through a level\n"
+    },
+    {
+        "id": "634",
+        "title": "escapism as main player motivation",
+        "tags": [
+            "escapism",
+            "motivation",
+            "relaxation",
+            "distraction"
+        ],
+        "content": "facilitating relaxation through distraction from real life\n"
+    },
+    {
+        "id": "646",
+        "title": "self-determination theory",
+        "tags": [
+            "self-determination theory",
+            "SDT",
+            "autonomy",
+            "competence",
+            "relatedness"
+        ],
+        "content": "self-determination theory, which describes humans as trying to satisfy three psychological needs: \n- autonomy,\n- competence, and \n- relatedness. \n\nWhen these needs are met, individuals experience enjoyment.\n"
+    },
+    {
+        "id": "657",
+        "title": "ergogenic and psychological benefits of music for (endurance) fitness",
+        "tags": [
+            "music",
+            "exercise",
+            "ergogenic",
+            "affective state",
+            "exertion",
+            "intensity"
+        ],
+        "content": "- enhance affect\n- reduce ratings of perceived exertion\n- improve energy efficiency\n- increased work output\n\npotential threshold of benefits at a certain high intensity\n"
+    },
+    {
+        "id": "658",
+        "title": "factors in musically induced motivation",
+        "tags": [
+            "music",
+            "motivation",
+            "tempo",
+            "beat",
+            "rhythm",
+            "harmony",
+            "melody"
+        ],
+        "content": "intrinsic:\n- rhythm response (esp. tempo): most important\n- musicality (harmony, melody)\n\nextrinsic:\n- cultural impact\n- association (e.g. Olympic)\n"
+    },
+    {
+        "id": "659",
+        "title": "framework of music in exercise domain",
+        "tags": [
+            "music",
+            "exercise",
+            "audio",
+            "motivation",
+            "mood",
+            "affective state",
+            "arousal",
+            "disassociation",
+            "exertion",
+            "flow",
+            "performance"
+        ],
+        "content": "redeveloped frameowrk:\n\nantecedents:\n- personal & situational factors\n\nintermediaries:\n- factors of musically induced motivation\n\npotential benefits:\n- improved mood\n- arousal control\n- dissociation\n- reduced rating of perceived exertion\n- improved skill acquisition\n- flow state\n- enhanced performance\n"
+    },
+    {
+        "id": "660",
+        "title": "potential mechanisms of music benefits in exercise",
+        "tags": [
+            "music",
+            "exercise",
+            "audio",
+            "exertion",
+            "rhythm",
+            "heart rate",
+            "tempo",
+            "affective state"
+        ],
+        "content": "- attentional processing\n- synchronous response to music rhythm / rhythm response\n- relationship between exercise heart rate and music tempo\n- emotional response to music\n"
+    },
+    {
+        "id": "661",
+        "title": "parallel processing hypothesis: music in exercise",
+        "tags": [
+            "music",
+            "exercise",
+            "exertion",
+            "RPE",
+            "intensity",
+            "audio",
+            "parallel processing hypothesis"
+        ],
+        "content": "beneficial effects (i.e., reduction of rating of perceived exertion / RPE) vary with exercise intensity\n\nbetter reduction of RPE with lower / moderate intensity\n\n(but results for both found ...)\n"
+    },
+    {
+        "id": "662",
+        "title": "greater benefits of music for untrained athletes",
+        "tags": [
+            "music",
+            "exertion",
+            "exercise",
+            "training",
+            "affective state"
+        ],
+        "content": "compared to trained ones\n\npotentially because: \n- untrained: greater dependency on affect uplift\n- trained: greater focus on movement/task\n"
+    },
+    {
+        "id": "663",
+        "title": "sedative effect of low-arousal music ",
+        "tags": [
+            "music",
+            "audio",
+            "exercise",
+            "exertion",
+            "low arousal",
+            "sedative effect"
+        ],
+        "content": "beneficial in low-intensity exercise\n"
+    },
+    {
+        "id": "715",
+        "title": "definition of player agency",
+        "tags": [
+            "agency",
+            "player experience",
+            "narrative",
+            "narrative agency",
+            "player choice",
+            "effectance"
+        ],
+        "content": "agency as player phenomenon:\nthe player experiencing the ability to make decisions and see results thereof as changes to the game world\n"
+    },
+    {
+        "id": "755",
+        "title": "background music affects player actions in horror game",
+        "tags": [
+            "music",
+            "background music",
+            "games",
+            "horror game",
+            "player decision",
+            "player behaviour"
+        ],
+        "content": "their gameplay: \"the music changed [...] more action-based music. So, I knew okay, I have to follow him\u201d (P2, PC\u2192VR), or \u201cthe sound [...] guide[d] me through more actions\u201d (P4, PC\u2192VR).\n\n\n"
+    },
+    {
+        "id": "757",
+        "title": "importance of sound effects as feedback",
+        "tags": [
+            "audio",
+            "sound effects",
+            "feedback",
+            "fun",
+            "engagement",
+            "game audio"
+        ],
+        "content": "designing for fun\n\n``satisfying sounds''\n\n``Satisfying sounds are a vital addition\nfor games, and helpful for alerting, such\nas a ringing phone. Sound design\nrequires skill, but suitable sound effects\ngive effective feedback and are well liked\nby users. However, users want control\nover the sound, especially the capacity to\nturn it off. The market in custom ring\ntones for cell phones is way beyond what\ncan be justified by necessity\u2014it must be\nfun to have your own ring tone''\n"
+    },
+    {
+        "id": "843",
+        "title": "uncanny valley phenomenon",
+        "tags": [
+            "uncanny valley",
+            "perception",
+            "uncanny"
+        ],
+        "content": "\n"
+    },
+    {
+        "id": "850",
+        "title": "atmosphere through coherent aesthetics",
+        "tags": [
+            "atmosphere",
+            "aesthetics",
+            "lighting",
+            "colour",
+            "weather",
+            "visual effects",
+            "sound effects",
+            "ambient noises",
+            "audio"
+        ],
+        "content": "thorugh \"lighting,colour palette, weather and atmospheric effects, special visual effects, music, ambient audio, and special audio effects\"\n"
+    }
+]

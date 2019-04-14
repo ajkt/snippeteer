@@ -1,0 +1,92 @@
+[
+    {
+        "content": "''Denisova & Cairns 2015: Adaptation in Digital Games: The Effect of Challenge Adjustment on Player Performance and Experience''\n\n@inproceedings{denisova2015adaptation,\n  title={Adaptation in Digital Games: The Effect of Challenge Adjustment on Player Performance and Experience},\n  author={Denisova, Alena and Cairns, Paul},\n  booktitle={Proceedings of the 2015 Annual Symposium on Computer-Human Interaction in Play},\n  pages={97--101},\n  year={2015},\n  organization={ACM}\n}\n",
+        "title": "Denisova & Cairns 2015",
+        "id": "6"
+    },
+    {
+        "content": "''Yee 2006: The demographics, motivations, and derived experiences of users of massively multi-user online graphical environments''\n\n@article{yee2006demographics,\n  title={The demographics, motivations, and derived experiences of users of massively multi-user online graphical environments},\n  author={Yee, Nick},\n  journal={Presence: Teleoperators and virtual environments},\n  volume={15},\n  number={3},\n  pages={309--329},\n  year={2006},\n  publisher={MIT Press}\n}\n",
+        "title": "Yee 2006",
+        "id": "47"
+    },
+    {
+        "content": "''Hefner et al. 2007: Identification with the player character as determinant of video game enjoyment''\n\n@incollection{hefner2007identification,\n  title={Identification with the player character as determinant of video game enjoyment},\n  author={Hefner, Doroth{\\'e}e and Klimmt, Christoph and Vorderer, Peter},\n  booktitle={Entertainment Computing--ICEC 2007},\n  pages={39--48},\n  year={2007},\n  publisher={Springer}\n}\n",
+        "title": "Hefner et al. 2007",
+        "id": "148"
+    },
+    {
+        "content": "@article{jennett2008measuring,\n  title={Measuring and defining the experience of immersion in games},\n  author={Jennett, Charlene and Cox, Anna L and Cairns, Paul and Dhoparee, Samira and Epps, Andrew and Tijs, Tim and Walton, Alison},\n  journal={International Journal of Human-Computer Studies},\n  volume={66},\n  number={9},\n  pages={641--661},\n  year={2008},\n  publisher={Elsevier}\n}\n\n",
+        "title": "Jennett et al. 2008",
+        "id": "285"
+    },
+    {
+        "content": "@article{mcauley1989psychometric,\n  title={Psychometric properties of the Intrinsic Motivation Inventory in a competitive sport setting: A confirmatory factor analysis},\n  author={McAuley, Edward and Duncan, Terry and Tammen, Vance V},\n  journal={Research quarterly for exercise and sport},\n  volume={60},\n  number={1},\n  pages={48--58},\n  year={1989},\n  publisher={Taylor \\& Francis Group}\n}\n\n",
+        "title": "McAuley et al. 1989",
+        "id": "287"
+    },
+    {
+        "content": "@article{ryan1982control,\n  title={Control and information in the intrapersonal sphere: An extension of cognitive evaluation theory.},\n  author={Ryan, Richard M},\n  journal={Journal of personality and social psychology},\n  volume={43},\n  number={3},\n  pages={450},\n  year={1982},\n  publisher={American Psychological Association}\n}\n\n",
+        "title": "Ryan 1982",
+        "id": "288"
+    },
+    {
+        "content": "@article{bradley1994measuring,\n  title={Measuring emotion: the self-assessment manikin and the semantic differential},\n  author={Bradley, Margaret M and Lang, Peter J},\n  journal={Journal of Behavior Therapy and Experimental Psychiatry},\n  volume={25},\n  number={1},\n  pages={49--59},\n  year={1994},\n  publisher={Elsevier}\n}\n\n",
+        "title": "Bradley & Lang 1994",
+        "id": "294"
+    },
+    {
+        "content": "@article{cummings2016immersive,\n  title={How immersive is enough? A meta-analysis of the effect of immersive technology on user presence},\n  author={Cummings, James J and Bailenson, Jeremy N},\n  journal={Media Psychology},\n  volume={19},\n  number={2},\n  pages={272--309},\n  year={2016},\n  publisher={Taylor \\& Francis}\n}\n\n",
+        "title": "Cummings & Bailenson 2016",
+        "id": "498"
+    },
+    {
+        "content": "@book{adams2012game,\n  title={Game mechanics: advanced game design},\n  author={Adams, Ernest and Dormans, Joris},\n  year={2012},\n  publisher={New Riders}\n}\n\n",
+        "title": "Adams & Dormans 2012",
+        "id": "573"
+    },
+    {
+        "content": "@article{yee2006motivations,\n\ttitle={Motivations for play in online games},\n\tauthor={Yee, Nick},\n\tjournal={CyberPsychology \\& behavior},\n\tvolume={9},\n\tnumber={6},\n\tpages={772--775},\n\tyear={2006},\n\tpublisher={Mary Ann Liebert, Inc. 2 Madison Avenue Larchmont, NY 10538 USA}\n}\n",
+        "title": "Yee 2006b",
+        "id": "633"
+    },
+    {
+        "content": "@article{deci2011self,\n\ttitle={Self-determination theory},\n\tauthor={Deci, Edward L and Ryan, Richard M},\n\tjournal={Handbook of theories of social psychology},\n\tvolume={1},\n\tpages={416--433},\n\tyear={2011},\n\tpublisher={Sage Publications Thousand Oaks (CA)}\n}\n",
+        "title": "Deci & Ryan 2011",
+        "id": "645"
+    },
+    {
+        "content": "@article{karageorghis2012music,\n  title={Music in the exercise domain: a review and synthesis (Part I)},\n  author={Karageorghis, Costas I and Priest, David-Lee},\n  journal={International review of sport and exercise psychology},\n  volume={5},\n  number={1},\n  pages={44--66},\n  year={2012},\n  publisher={Taylor \\& Francis}\n}\n",
+        "title": "Karageorghis & Priest 2012",
+        "id": "656"
+    },
+    {
+        "content": "\n@book{murray2017hamlet,\n  title={Hamlet on the holodeck: The future of narrative in cyberspace},\n  author={Murray, Janet Horowitz},\n  year={2017},\n  publisher={MIT press}\n}\n",
+        "title": "Murray 2017",
+        "id": "714"
+    },
+    {
+        "content": "@inproceedings{rogers2018vanishing,\n\ttitle={Vanishing Importance: Studying Immersive Effects of Game Audio Perception on Player Experiences in Virtual Reality},\n\tauthor={Rogers, Katja and Ribeiro, Giovanni and Wehbe, Rina R and Weber, Michael and Nacke, Lennart E},\n\tbooktitle={Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},\n\tpages={328},\n\tyear={2018},\n\tpublisher={ACM},\n\taddress={New York, NY, USA},\n doi = {10.1145/3173574.3173902},\n}\n",
+        "title": "Rogers et al. 2018",
+        "id": "754"
+    },
+    {
+        "content": "@article{shneiderman2004designing,\n  title={Designing for fun: how can we design user interfaces to be more fun?},\n  author={Shneiderman, Ben},\n  journal={interactions},\n  volume={11},\n  number={5},\n  pages={48--50},\n  year={2004},\n  publisher={ACM}\n}\n",
+        "title": "Shneiderman 2004",
+        "id": "756"
+    },
+    {
+        "content": "\n@article{mori2012uncanny,\n  title={The uncanny valley [from the field]},\n  author={Mori, Masahiro and MacDorman, Karl F and Kageki, Norri},\n  journal={IEEE Robotics \\& Automation Magazine},\n  volume={19},\n  number={2},\n  pages={98--100},\n  year={2012},\n  publisher={IEEE}\n}\n",
+        "title": "Mori et al. 2012",
+        "id": "842"
+    },
+    {
+        "content": "\n\n@inproceedings{macdorman2006subjective,\n  title={Subjective ratings of robot video clips for human likeness, familiarity, and eeriness: An exploration of the uncanny valley},\n  author={MacDorman, Karl F},\n  booktitle={ICCS/CogSci-2006 long symposium: Toward social mechanisms of android science},\n  pages={26--29},\n  year={2006}\n}\n",
+        "title": "MacDorman 2006",
+        "id": "844"
+    },
+    {
+        "content": "\n@book{adams2014fundamentals,\n  title={Fundamentals of game design},\n  author={Adams, Ernest},\n  year={2014},\n  publisher={Pearson Education},\n  address={London, United Kingdom}\n}\n",
+        "title": "Adams 2014",
+        "id": "849"
+    }
+]
